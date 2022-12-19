@@ -1,0 +1,15 @@
+D:\Docuemnts\GitHub\discordUnixConvert\bin\Debug\net6.0\discordUnixConvert.exe
+D:\Docuemnts\GitHub\discordUnixConvert\bin\Debug\net6.0\discordUnixConvert.deps.json
+D:\Docuemnts\GitHub\discordUnixConvert\bin\Debug\net6.0\discordUnixConvert.runtimeconfig.json
+D:\Docuemnts\GitHub\discordUnixConvert\bin\Debug\net6.0\discordUnixConvert.dll
+D:\Docuemnts\GitHub\discordUnixConvert\bin\Debug\net6.0\discordUnixConvert.pdb
+D:\Docuemnts\GitHub\discordUnixConvert\obj\Debug\net6.0\discordUnixConvert.csproj.AssemblyReference.cache
+D:\Docuemnts\GitHub\discordUnixConvert\obj\Debug\net6.0\discordUnixConvert.GeneratedMSBuildEditorConfig.editorconfig
+D:\Docuemnts\GitHub\discordUnixConvert\obj\Debug\net6.0\discordUnixConvert.AssemblyInfoInputs.cache
+D:\Docuemnts\GitHub\discordUnixConvert\obj\Debug\net6.0\discordUnixConvert.AssemblyInfo.cs
+D:\Docuemnts\GitHub\discordUnixConvert\obj\Debug\net6.0\discordUnixConvert.csproj.CoreCompileInputs.cache
+D:\Docuemnts\GitHub\discordUnixConvert\obj\Debug\net6.0\discordUnixConvert.dll
+D:\Docuemnts\GitHub\discordUnixConvert\obj\Debug\net6.0\refint\discordUnixConvert.dll
+D:\Docuemnts\GitHub\discordUnixConvert\obj\Debug\net6.0\discordUnixConvert.pdb
+D:\Docuemnts\GitHub\discordUnixConvert\obj\Debug\net6.0\discordUnixConvert.genruntimeconfig.cache
+D:\Docuemnts\GitHub\discordUnixConvert\obj\Debug\net6.0\ref\discordUnixConvert.dll
